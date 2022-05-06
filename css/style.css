@@ -674,10 +674,8 @@ footer {
     section.profile .left{
         margin-bottom: 6rem;
     }
-      }
-    section.contact .wrapper{
-        display: block;
-    }
+      
+   
     section.contact .wrapper .right .form_group{
       display: block;
     }
